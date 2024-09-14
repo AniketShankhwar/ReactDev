@@ -1,0 +1,32 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "This is React Practice",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniketShankhwar/ReactDev.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Aniket",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniketShankhwar/ReactDev/issues"
+  },
+  "homepage": "https://github.com/AniketShankhwar/ReactDev#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
